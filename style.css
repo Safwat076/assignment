@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgrey;
+}
+.hello{
+    color:coral;
+}
+.safwat{
+    color:teal;
+}
+.name{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.name img{
+    width: 100%;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, crimson, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.area{
+    text-align: center;
+}
+.column{
+    float: left;
+    padding: 2px;
+    width: 30%;
+    margin: 10px 0;
+    border: 0px solid;
+    
+
+}
+.column img{
+    width: 50%;
+}
+.karim{
+    float: left;
+    font-size: 20px;
+    padding-left: 10px;
+    width: 100%;
+    border-radius: 5px solid #c0c0c0;
+    
+}
+.container{
+    background-image: url("Group_33094_1.png");
+    background-repeat: no repeat;
+    padding: 200px 100px;
+    margin: 30px;
+}
+.stay{
+    text-decoration: none;
+    text-align: center;
+    color: lightcoral;
+    font font-size: 20px;
+    
+}
+.image{
+    text-align: center;
+}
+
+
+.image img{
+    padding-left: 50px;
+    width: 55px;
+    height: auto;
+}
+
+
+    
+    
+
+    
